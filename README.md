@@ -3,7 +3,6 @@
 # 💻 C++ Programs Collection | مجموعة برامج C++
 
 ### 🎯 Purpose
-
 This repository is a **complete collection of C++ programs** created for **learning, practice, and reference**.  
 It includes examples for:
 - Input / Output
