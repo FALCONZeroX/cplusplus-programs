@@ -10,8 +10,6 @@ It includes examples for:
 - Loops (`for`, `while`, `do...while`)
 - Arrays & Strings
 - Functions & Recursion
-- Object-Oriented Programming (OOP)
-- File handling and more...
 
 Each program is **simple, well-commented, and beginner-friendly**.
 
@@ -26,9 +24,6 @@ Each program is **simple, well-commented, and beginner-friendly**.
 | `03_loops/` | All loop-related examples and patterns. |
 | `04_arrays/` | Single and multi-dimensional arrays. |
 | `05_functions/` | Examples of functions, recursion, and parameters. |
-| `06_oop/` | Classes, objects, constructors, inheritance, polymorphism. |
-| `07_files/` | Reading and writing files in C++. |
-| `extras/` | Bonus programs, mini-projects, and challenges. |
 
 ---
 
